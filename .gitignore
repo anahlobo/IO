@@ -1,3 +1,6 @@
+# Ignore user defined files:
+input_control.py
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
